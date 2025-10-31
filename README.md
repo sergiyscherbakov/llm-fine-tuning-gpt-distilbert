@@ -677,4 +677,6 @@ print(result)
 - **Email**: sergiyscherbakov@ukr.net
 - **Telegram**: @s_help_2010
 
-**Підтримати проект**: `0xDFD0A23d2FEd7c1ab8A0F9A4a1F8386832B6f95A` (USDT BEP20)
+### 💰 Підтримати розробку
+Задонатити на каву USDT (BINANCE SMART CHAIN):
+**`0xDFD0A23d2FEd7c1ab8A0F9A4a1F8386832B6f95A`**
