@@ -1,0 +1,53 @@
+# Великі файли
+*.mp4
+*.zip
+*.pdf
+*.docx
+
+# Папки з даними
+data/
+__pycache__/
+results/
+logs/
+
+# Службові файли
+.claude/
+PROMPT.txt
+*.txt
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+#Env
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Weights and models (optional)
+*.bin
+*.pt
+*.pth
+*.h5
+*.ckpt
